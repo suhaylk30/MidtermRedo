@@ -1,0 +1,87 @@
+#wrapper {
+    width: 960px;
+}
+#menu {
+    text-align: right;
+}
+#header {
+    height: 100px;
+    line-height: 100px;
+}
+#central {
+    height: 475px;
+}
+#footer {
+    background-color: black;
+    color: white;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+}
+#text {
+    padding-left: 20px;
+    width: 500px;
+}
+#text p {
+    padding-left: 30px;
+}
+#pic {
+    width: 390px;
+}
+#picWork {
+    padding: 10px;
+    width: 290px;
+    border: 1px black solid;
+    line-height: 20px;
+}
+#tab {
+    border: black 1px solid;
+}
+#picWork h1,p{
+    margin: 2px;
+}
+
+#main {
+    background-image: url("../images/4x4-adventure-automobile-1571783 (2).jpg");
+    height: 554px;
+}
+#banner {
+    margin-top: 0;
+    background-color: black;
+    width: 450px;
+    height: 554px;
+    opacity: 0.8;
+}
+#banner h1 {
+    color: antiquewhite;
+    position: relative;
+    top: 123px;
+    left: 20px;
+}
+#banner h2 {
+    color: blue;
+    position: relative;
+    top: 128px;
+    left: 300px;
+}
+.centerPage {
+    margin-left: auto;
+    margin-right: auto;
+}
+.floatLeft {
+    float: left;
+}
+.inLine {
+    display: inline;
+}
+.clear {
+    clear: both;
+}
+#logo{
+    width: 160px;
+    height: 135px;
+}
+#menu{
+    width: 800px;
+    text-align: right;
+}
